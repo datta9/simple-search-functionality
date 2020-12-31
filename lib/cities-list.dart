@@ -1,0 +1,38 @@
+final cities = [
+  'Mumbai',
+  'Visakhapatnam',
+  'Coimbatore',
+  'Delhi',
+  'Bangalore',
+  'Pune',
+  'Nagpur',
+  'Lucknow',
+  'Vadodara',
+  'Indore',
+  'Jalalpur',
+  'Bhopal',
+  'Kolkata',
+  'Kanpur',
+  'New Delhi',
+  'Faridabad',
+  'Rajkot',
+  'Ghaziabad',
+  'Chennai',
+  'Meerut',
+  'Agra',
+  'Jaipur',
+  'Jabalpur',
+  'Varanasi',
+  'Allahabad',
+  'Hyderabad',
+  'Noida',
+  'Howrah',
+  'Thane'
+];
+
+final recentCities = [
+  'Hyderabad',
+  'New Delhi',
+  'Bangalore',
+  'Agra',
+];
